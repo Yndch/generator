@@ -1,0 +1,5 @@
+com\example\generator\Main.class
+com\example\generator\Settings.class
+com\example\generator\Settings$Column.class
+com\example\generator\Settings$Page.class
+com\example\generator\Entry.class
